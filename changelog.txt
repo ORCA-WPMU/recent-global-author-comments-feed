@@ -1,0 +1,34 @@
+=== Global Comments Feed ===
+Authors: Paul Menard (Incsub), Ivan Shaovchev, Andrew Billits (Incsub), S H Mohanjith (Incsub)
+
+== Changelog ==
+
+= 1.0.3.3 =
+- Update to query logic when trying to determine related post title for comment. Previous logic was incorrectly trying to access wp_1_posts table. 
+
+= 1.0.3.2 =
+- IMPORTANT security update
+- XSS prevention patches
+
+= 1.0.3.1 =
+* Fix: 404 header
+* Fix: RSS language
+
+= 1.0.3 =
+* Name Change
+* Author id fix
+
+= 1.0.2 =
+* Compatibility update for WordPress 3.1
+* Update notifications scripts added
+* RSS Feed display mechanism improved
+* Bug fixes
+
+= 1.0.1 =
+* Switched user login to display name
+
+= 1.0.0 =
+* Initial Release
+
+
+403900-1511249851-ai
